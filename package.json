@@ -1,0 +1,19 @@
+{
+  "author": "Rafael Amorim",
+  "name": "CobreGratis",
+  "description": "Modulo de integracao do CobreGratis em Node.js",
+  "version": "0.0.1",
+  "homepage": "http://cobregratis.com.br/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ramorim/cobregratis-nodejs.git"
+  },
+  "main": "./lib/cobregratis",
+  "engines": {
+    "node": "~v0.4.10"
+  },
+  "dependencies": {
+	"request" : "2.11.4"
+  },
+  "devDependencies": {}
+}
